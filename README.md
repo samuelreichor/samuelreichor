@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelreichor
-- 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning Craft CMS
+- 👀 I’m a passionate Web Developer
+- 🌱 Based in Austria -> Linz
 
 
 
